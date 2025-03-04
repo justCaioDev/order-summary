@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-order-summary-with-html-and-css-5wptPYyyxF](https://www.frontendmentor.io/solutions/responsive-order-summary-with-html-and-css-5wptPYyyxF)
 - Live Site URL: [https://justCaioDev.github.io/order-sumary/](https://justCaioDev.github.io/order-sumary/)
 
 ## My process
